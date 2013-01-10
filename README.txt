@@ -1,0 +1,1 @@
+This is a game somewhat inspired by breakout that my roomate and I are making. I'm working on animations and such and he'll be programming. Live version can be found here: http://lucasflatter.com/practice/brickBall/
